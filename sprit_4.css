@@ -1,0 +1,319 @@
+body{
+    background-color: rgb(6, 6, 48);
+}
+.header{
+    width: 1104px;
+    height: 60px;
+    border: 2px solid rgb(137, 137, 225);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(rgb(217,217,255,0.07));
+    background-color: rgb(77, 77, 235);
+    align-items: center;
+    margin-left:100px ;
+    margin-top: 50px;
+    color: antiquewhite;
+
+
+}
+
+.about>ul{
+    display: flex;
+    list-style: none;
+    gap:42px;
+    justify-content: center;
+    align-self: ;
+
+}
+button{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    margin: 60px;
+    background-color: white;
+    color: black;
+}
+
+.heading{
+    width: 944px;
+    height: 216px;
+    margin-top:108px;
+    padding-left: 248px;
+    font-family: "santoshi";
+    display: inline;
+    text-align: center;
+    background-image: url("BG Pattern.svg");
+    color: aliceblue;
+
+}
+
+
+.big{
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 108px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.small{
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 34.4px;
+    align-items: center;
+}
+
+.two-button{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.two-button>div:nth-child(1){
+    width: 162.64px;
+    height:40px;
+    border-radius: 20px;
+    background: linear-gradient(rgb(36,55,201,1));
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: rgb(149, 115, 229);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 34.4px;
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+    color: #FFFFFF;
+}
+
+.logo{
+    margin-left:300px ;
+    background-color: rgb(12, 23, 36);
+    width: 661px;
+    height: 100px;
+    padding-top:100px;
+    border: 1px;
+    border-radius: 32px;
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    -ms-border-radius: 32px;
+    -o-border-radius: 32px;
+    background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.para{
+    padding-top: 30px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 43.2px;
+
+    border: 1px solid;
+
+    border-image-source: linear-gradient(270deg, rgba(255, 255, 255, 0) 6.2%, #FFFFFF 54.5%, rgba(255, 255, 255, 0) 89.56%);
+
+
+
+}
+.para-1{
+
+
+    width: 1104px;
+    height: 372px;
+    top: 1306px;
+    left: 168px;
+    gap: 0px;
+    opacity: 0.1px;
+    text-align: center;
+    background: rgba(86, 11, 173, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    margin-left: 200px;
+    color: #FFFFFF;
+
+
+}
+.logo-1>ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+.letter-1>p{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 64.8px;
+    text-align: center;
+}
+.para-3{
+    text-align: center;
+    color: #FFFFFF;
+    display: inline;
+    margin-left: 288px;
+    margin-top: 1809px;
+    padding: 0%;
+}
+
+.para-3>p{
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 64.8px;
+    text-align: center;
+}
+.para-3>div{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32.4px;
+    text-align: center;
+}
+.rotate{
+    color: #FFFFFF;
+    display: inline;
+    justify-content: center;
+    width: 1104px;
+    height: 369px;
+    border-radius: 42px;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    -ms-border-radius: 42px;
+    -o-border-radius: 42px;
+    border: 1px;
+}
+.game{
+    color: #FFFFFF;
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap:20px
+}
+.lettter4>p{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32.2px;
+}
+.lettter4>h1{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26.6px;
+}
+.box-3{
+    display: flex;
+    gap:30px
+}
+
+.box-2{
+    gap:30px
+}
+.box-2>div{
+    padding-left: 20px;
+    width: 224px;
+    height: 153px;
+    background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.bitcoin{
+    width: 302px;
+    height: 329px;
+    border-radius: 32px;
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    -ms-border-radius: 32px;
+    -o-border-radius: 32px;
+    background: linear-gradient(92.98deg, rgba(217, 217, 217, 0.07) 32.09%, rgba(217, 217, 217, 0.05) 116.98%);
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+
+.product{
+    width: 304px;
+    height: 404px;
+    background: linear-gradient(180deg, rgba(2, 6, 23, 0) 16.98%, rgba(2, 6, 23, 0.8) 66.5%);
+    color: #FFFFFF;
+    padding-left: 20px;
+
+}
+.product>img{
+    width: 260px;
+    height: 179px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.container-1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:5px;
+    grid-column-gap: 10px;
+}
+.grid-1{
+    display: inline;
+    flex-direction: column;
+    color:#FFFFFF;
+    justify-content: center;
+    padding-left: 200px;
+}
+.curr{
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+}
+.blog{
+    color: #FFFFFF;
+    text-align: center;
+    display: grid;
+
+
+}
+.blog-heading{
+
+}
+.blog-heading>h1{
+    font-weight: 900;
+    font-size: 48px;
+    text-align: center;
+}
+.blog-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+
+.value-review{
+    color: #FFFFFF;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin: 200px;
+}
+.comment{
+    display: inline;
+}
